@@ -1,4 +1,4 @@
-#  Lasagna Recipe
+#  Marinara Recipe
 
 This is my family's secret marinara recipe.
 
